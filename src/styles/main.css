@@ -2,3 +2,7 @@ body{
 	background: #ccc;
 	font-family: 'tahoma';
 }
+
+span{
+	color:yellow;
+}
